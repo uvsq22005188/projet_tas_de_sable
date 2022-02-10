@@ -74,7 +74,7 @@ content = tk.Frame(root)
 canvas = tk.Canvas(content, height=HAUTEUR, width=LARGEUR, bg=BG_COLOR)
 
 #Bouton
-bouton_aléatoire = tk.Button(content, text="Aléatoire", command=initalisation_aleatoire)
+bouton_aléatoire = tk.Button(content, text="Initialisation", command=initalisation_aleatoire)
 
 ############################
 #Placement des widgets
