@@ -1,9 +1,9 @@
 ############################
 # Groupe : MI TD03
 # Kaan Doyurur
-#
-#
-#
+# Younous Soussi
+# Haled Issouf
+# Tri Nghiem
 # https://github.com/uvsq22005188/projet_tas_de_sable
 ############################
 # Import des librairies
